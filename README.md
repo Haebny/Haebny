@@ -1,8 +1,7 @@
 Welcome to visit my GitHub!
-- 👋 Hi, I’m @Haebny
+- 👋 Hi, I’m @Mono-Momo
 - 👀 I’m interested in studying how to make funny game!
 - 🌱 I’m currently learning C#, Unity, writing skills.
-- 📫 Company Email - ranny524@com2us.com
 - 📫 Personal Email - bean9194@gmail.com
 
 <!---
